@@ -1,0 +1,14 @@
+layout_spectrum: 0.8736549518071115
+typography_spectrum: 0.00873095728456974
+color:
+  brandStrength: 0.6066916161216795
+  lightness: 0.6132448960561305
+  saturation: 0.8025013853330165
+  rhythmicContrast: 0.06764058978296816
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Tickadoo
